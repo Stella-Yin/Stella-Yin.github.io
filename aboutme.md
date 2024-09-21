@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I'm Your Next Data Scientist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Stella Yin. Here are some compelling reasons to consider me for your data science team:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Proficient in Python, SQL, and various data analysis tools, including PowerBI and advanced machine learning libraries.
+Experienced in developing forecasting models, conducting feature engineering, and optimizing algorithms for recommendation systems and cloud cost management.
+Ready to drive actionable insights from your data?
 
-What else do you need?
+My Professional Journey
+For a detailed look at my projects and specific expertise in data science, especially within computational linguistics and natural language processing, I invite you to view my detailed project discussions on my LinkedIn profile. These projects demonstrate my capability to handle complex data scenarios and deliver meaningful results that can enhance business strategies and operations
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now.
