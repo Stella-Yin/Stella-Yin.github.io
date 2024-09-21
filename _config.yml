@@ -22,9 +22,10 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Toy: "https://github.com/Stella-Yin/Stella-Yin.git"
-    - Advanced: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - NLP: "https://github.com/Stella-Yin/Stella-Yin.git"
+    - Housing: "https://github.com/Stella-Yin/Stella-Yin.git"
+  Resume: "https://drive.google.com/file/d/1lnQuypWJ9nrAlJszLS9GAWV-ACwu6IfS/view?usp=sharing"
+  Blogs: "More to come"
 
 ################
 # --- Logo --- #
